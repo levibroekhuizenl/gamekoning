@@ -1,0 +1,10 @@
+<html>
+	<body>
+		<h1>
+			{title}
+		</h1>
+		<h2>
+			{txt}
+		</h2>
+	</body>
+</html>
